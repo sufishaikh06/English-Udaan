@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123369868847",
+    "project_id": "english-udaan",
+    "storage_bucket": "english-udaan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123369868847:android:6e4d53e3b96e5d5a4bc0da",
+        "android_client_info": {
+          "package_name": "com.englishudaan.english_udaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123369868847-iv2mra459gdc2gnk9mkl6dlnvrc8tlhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tftEtGOxcGZpGjUK0EPMOYORfrEW2VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123369868847-iv2mra459gdc2gnk9mkl6dlnvrc8tlhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,324 @@
+{
+  "version": "0.1.0-sample",
+  "section": "grammar",
+  "items": [
+    {
+      "id": "grammar-001-parts-of-speech",
+      "level": "beginner",
+      "category": "partsOfSpeech",
+      "difficulty": "beginner",
+      "order": 1,
+      "titleEnglish": "Parts of Speech",
+      "titleUrdu": "اجزائے کلام",
+      "explanationEnglish": "Parts of speech are groups of words based on their job in a sentence. Nouns name things, verbs show actions, adjectives describe, and other word groups connect ideas.",
+      "explanationUrdu": "اجزائے کلام الفاظ کے وہ گروہ ہیں جو جملے میں مختلف کام کرتے ہیں۔ اسم چیزوں کے نام بتاتا ہے، فعل کام دکھاتا ہے، صفت وضاحت کرتی ہے، اور دوسرے الفاظ خیالات کو ملاتے ہیں۔",
+      "examples": [
+        {"english":"Ali reads a book.","urdu":"علی ایک کتاب پڑھتا ہے۔","note":"Ali is a noun, reads is a verb, and book is a noun.","ttsText":"Ali reads a book."},
+        {"english":"The red ball is small.","urdu":"سرخ گیند چھوٹی ہے۔","note":"Red and small describe the ball.","ttsText":"The red ball is small."}
+      ],
+      "corrections": [],
+      "ttsText": "Parts of speech help us understand how words work in a sentence."
+    },
+    {
+      "id": "grammar-002-nouns",
+      "level": "beginner",
+      "category": "nouns",
+      "difficulty": "beginner",
+      "order": 2,
+      "titleEnglish": "Nouns",
+      "titleUrdu": "اسم",
+      "explanationEnglish": "A noun is the name of a person, place, animal, thing, or idea. In English, nouns can be singular or plural.",
+      "explanationUrdu": "اسم کسی شخص، جگہ، جانور، چیز یا خیال کے نام کو کہتے ہیں۔ انگریزی میں اسم واحد یا جمع ہو سکتا ہے۔",
+      "examples": [
+        {"english":"The teacher is kind.","urdu":"استاد مہربان ہے۔","note":"Teacher is a noun.","ttsText":"The teacher is kind."},
+        {"english":"The books are on the table.","urdu":"کتابیں میز پر ہیں۔","note":"Books and table are nouns.","ttsText":"The books are on the table."}
+      ],
+      "corrections": [
+        {"incorrect":"Two book are here.","correct":"Two books are here.","urdu":"دو کتابیں یہاں ہیں۔"}
+      ],
+      "ttsText": "A noun names a person, place, animal, thing, or idea."
+    },
+    {
+      "id": "grammar-003-pronouns",
+      "level": "beginner",
+      "category": "pronouns",
+      "difficulty": "beginner",
+      "order": 3,
+      "titleEnglish": "Pronouns",
+      "titleUrdu": "ضمیر",
+      "explanationEnglish": "A pronoun is used instead of a noun. Words like I, you, he, she, it, we, and they help us avoid repeating names.",
+      "explanationUrdu": "ضمیر اسم کی جگہ استعمال ہوتا ہے۔ I، you، he، she، it، we، اور they جیسے الفاظ نام بار بار دہرانے سے بچاتے ہیں۔",
+      "examples": [
+        {"english":"Sara is my friend. She is helpful.","urdu":"سارہ میری دوست ہے۔ وہ مددگار ہے۔","note":"She replaces Sara.","ttsText":"Sara is my friend. She is helpful."},
+        {"english":"The cat is hungry. It wants milk.","urdu":"بلی بھوکی ہے۔ اسے دودھ چاہیے۔","note":"It replaces the cat.","ttsText":"The cat is hungry. It wants milk."}
+      ],
+      "corrections": [
+        {"incorrect":"Ali is here. Her is happy.","correct":"Ali is here. He is happy.","urdu":"علی یہاں ہے۔ وہ خوش ہے۔"}
+      ],
+      "ttsText": "A pronoun is used instead of a noun."
+    },
+    {
+      "id": "grammar-004-verbs",
+      "level": "beginner",
+      "category": "verbs",
+      "difficulty": "beginner",
+      "order": 4,
+      "titleEnglish": "Verbs",
+      "titleUrdu": "فعل",
+      "explanationEnglish": "A verb tells what someone or something does, has, or is. It is an important part of almost every sentence.",
+      "explanationUrdu": "فعل بتاتا ہے کہ کوئی شخص یا چیز کیا کرتی ہے، کیا رکھتی ہے، یا کیا ہے۔ یہ تقریباً ہر جملے کا اہم حصہ ہے۔",
+      "examples": [
+        {"english":"We play in the park.","urdu":"ہم پارک میں کھیلتے ہیں۔","note":"Play is the action verb.","ttsText":"We play in the park."},
+        {"english":"She has a pencil.","urdu":"اس کے پاس ایک پنسل ہے۔","note":"Has is a verb.","ttsText":"She has a pencil."}
+      ],
+      "corrections": [
+        {"incorrect":"He go home.","correct":"He goes home.","urdu":"وہ گھر جاتا ہے۔"}
+      ],
+      "ttsText": "A verb shows an action, state, or possession."
+    },
+    {
+      "id": "grammar-005-adjectives",
+      "level": "beginner",
+      "category": "adjectives",
+      "difficulty": "beginner",
+      "order": 5,
+      "titleEnglish": "Adjectives",
+      "titleUrdu": "صفت",
+      "explanationEnglish": "An adjective describes a noun. It can tell size, colour, number, quality, or condition.",
+      "explanationUrdu": "صفت اسم کی خصوصیت بتاتی ہے۔ یہ سائز، رنگ، تعداد، خوبی یا حالت بتا سکتی ہے۔",
+      "examples": [
+        {"english":"This is a clean room.","urdu":"یہ ایک صاف کمرہ ہے۔","note":"Clean describes room.","ttsText":"This is a clean room."},
+        {"english":"I have three yellow pencils.","urdu":"میرے پاس تین پیلی پنسلیں ہیں۔","note":"Three and yellow describe pencils.","ttsText":"I have three yellow pencils."}
+      ],
+      "corrections": [],
+      "ttsText": "An adjective describes a noun."
+    },
+    {
+      "id": "grammar-006-articles",
+      "level": "beginner",
+      "category": "articles",
+      "difficulty": "beginner",
+      "order": 6,
+      "titleEnglish": "Articles: a, an, the",
+      "titleUrdu": "آرٹیکلز: a، an، the",
+      "explanationEnglish": "Use a before a consonant sound, an before a vowel sound, and the when the listener knows the exact thing.",
+      "explanationUrdu": "consonant آواز سے پہلے a، vowel آواز سے پہلے an، اور جب خاص چیز معلوم ہو تو the استعمال کیا جاتا ہے۔",
+      "examples": [
+        {"english":"I saw a dog and an owl.","urdu":"میں نے ایک کتا اور ایک الو دیکھا۔","note":"A comes before dog; an comes before owl.","ttsText":"I saw a dog and an owl."},
+        {"english":"Please close the door.","urdu":"براہِ کرم دروازہ بند کریں۔","note":"The door is a specific door.","ttsText":"Please close the door."}
+      ],
+      "corrections": [
+        {"incorrect":"She eats a apple.","correct":"She eats an apple.","urdu":"وہ ایک سیب کھاتی ہے۔"}
+      ],
+      "ttsText": "Use a, an, and the before nouns."
+    },
+    {
+      "id": "grammar-007-sentence-structure",
+      "level": "beginner",
+      "category": "sentenceStructure",
+      "difficulty": "beginner",
+      "order": 7,
+      "titleEnglish": "Basic Sentence Structure",
+      "titleUrdu": "بنیادی جملے کی ساخت",
+      "explanationEnglish": "A simple English sentence often follows subject plus verb plus object or extra information. The subject usually comes before the verb.",
+      "explanationUrdu": "سادہ انگریزی جملہ عموماً subject، پھر verb، پھر object یا اضافی معلومات پر مشتمل ہوتا ہے۔ subject عام طور پر verb سے پہلے آتا ہے۔",
+      "examples": [
+        {"english":"The boy reads a story.","urdu":"لڑکا ایک کہانی پڑھتا ہے۔","note":"The boy is the subject, reads is the verb.","ttsText":"The boy reads a story."},
+        {"english":"My mother cooks dinner.","urdu":"میری امی رات کا کھانا پکاتی ہیں۔","note":"My mother is the subject.","ttsText":"My mother cooks dinner."}
+      ],
+      "corrections": [
+        {"incorrect":"Reads the boy a story.","correct":"The boy reads a story.","urdu":"لڑکا ایک کہانی پڑھتا ہے۔"}
+      ],
+      "ttsText": "A basic English sentence often starts with the subject."
+    },
+    {
+      "id": "grammar-008-adverbs",
+      "level": "elementary",
+      "category": "adverbs",
+      "difficulty": "developing",
+      "order": 8,
+      "titleEnglish": "Adverbs",
+      "titleUrdu": "متعلق فعل",
+      "explanationEnglish": "An adverb gives more information about a verb, adjective, or another adverb. It can tell how, when, where, or how often something happens.",
+      "explanationUrdu": "متعلق فعل، فعل، صفت یا دوسرے متعلق فعل کے بارے میں مزید معلومات دیتا ہے۔ یہ بتا سکتا ہے کہ کام کیسے، کب، کہاں، یا کتنی بار ہوتا ہے۔",
+      "examples": [
+        {"english":"She speaks clearly.","urdu":"وہ صاف انداز میں بولتی ہے۔","note":"Clearly tells how she speaks.","ttsText":"She speaks clearly."},
+        {"english":"We often visit our uncle.","urdu":"ہم اکثر اپنے چچا سے ملنے جاتے ہیں۔","note":"Often tells how frequently.","ttsText":"We often visit our uncle."}
+      ],
+      "corrections": [],
+      "ttsText": "An adverb gives more information about an action."
+    },
+    {
+      "id": "grammar-009-prepositions",
+      "level": "elementary",
+      "category": "prepositions",
+      "difficulty": "developing",
+      "order": 9,
+      "titleEnglish": "Prepositions",
+      "titleUrdu": "حروف جار",
+      "explanationEnglish": "Prepositions show relationships of place, time, direction, or connection. Common prepositions include in, on, at, under, before, and after.",
+      "explanationUrdu": "حروف جار جگہ، وقت، سمت یا تعلق ظاہر کرتے ہیں۔ عام prepositions میں in، on، at، under، before، اور after شامل ہیں۔",
+      "examples": [
+        {"english":"The cup is on the table.","urdu":"کپ میز پر ہے۔","note":"On shows place.","ttsText":"The cup is on the table."},
+        {"english":"We will meet after school.","urdu":"ہم اسکول کے بعد ملیں گے۔","note":"After shows time.","ttsText":"We will meet after school."}
+      ],
+      "corrections": [
+        {"incorrect":"The book is in the table.","correct":"The book is on the table.","urdu":"کتاب میز پر ہے۔"}
+      ],
+      "ttsText": "Prepositions show place, time, direction, or connection."
+    },
+    {
+      "id": "grammar-010-conjunctions",
+      "level": "elementary",
+      "category": "conjunctions",
+      "difficulty": "developing",
+      "order": 10,
+      "titleEnglish": "Conjunctions",
+      "titleUrdu": "حروف عطف",
+      "explanationEnglish": "Conjunctions join words, phrases, or sentences. Common conjunctions include and, but, because, so, and or.",
+      "explanationUrdu": "حروف عطف الفاظ، فقروں یا جملوں کو ملاتے ہیں۔ عام conjunctions میں and، but، because، so، اور or شامل ہیں۔",
+      "examples": [
+        {"english":"I like tea and milk.","urdu":"مجھے چائے اور دودھ پسند ہے۔","note":"And joins two nouns.","ttsText":"I like tea and milk."},
+        {"english":"He was tired, but he finished his work.","urdu":"وہ تھکا ہوا تھا، لیکن اس نے اپنا کام مکمل کیا۔","note":"But joins two contrasting ideas.","ttsText":"He was tired, but he finished his work."}
+      ],
+      "corrections": [],
+      "ttsText": "Conjunctions join words, phrases, or sentences."
+    },
+    {
+      "id": "grammar-011-tenses",
+      "level": "elementary",
+      "category": "tenses",
+      "difficulty": "developing",
+      "order": 11,
+      "titleEnglish": "Tenses",
+      "titleUrdu": "زمانے",
+      "explanationEnglish": "Tense shows when an action happens: present, past, or future. The verb form changes to show time.",
+      "explanationUrdu": "Tense بتاتا ہے کہ کام کب ہوتا ہے: حال، ماضی، یا مستقبل۔ وقت ظاہر کرنے کے لیے فعل کی شکل بدلتی ہے۔",
+      "examples": [
+        {"english":"I walk to school every day.","urdu":"میں ہر روز اسکول پیدل جاتا ہوں۔","note":"Present simple shows a routine.","ttsText":"I walk to school every day."},
+        {"english":"I walked to school yesterday.","urdu":"میں کل اسکول پیدل گیا تھا۔","note":"Past simple shows a completed past action.","ttsText":"I walked to school yesterday."},
+        {"english":"I will walk to school tomorrow.","urdu":"میں کل اسکول پیدل جاؤں گا۔","note":"Will shows future time.","ttsText":"I will walk to school tomorrow."}
+      ],
+      "corrections": [
+        {"incorrect":"Yesterday I walk to school.","correct":"Yesterday I walked to school.","urdu":"کل میں اسکول پیدل گیا تھا۔"}
+      ],
+      "ttsText": "Tense shows when an action happens."
+    },
+    {
+      "id": "grammar-012-modals",
+      "level": "intermediate",
+      "category": "modals",
+      "difficulty": "intermediate",
+      "order": 12,
+      "titleEnglish": "Modal Verbs",
+      "titleUrdu": "Modal افعال",
+      "explanationEnglish": "Modal verbs such as can, should, must, may, and might add meaning like ability, advice, duty, permission, or possibility. Use the base verb after a modal.",
+      "explanationUrdu": "can، should، must، may، اور might جیسے modal افعال صلاحیت، مشورہ، فرض، اجازت یا امکان کا معنی شامل کرتے ہیں۔ modal کے بعد فعل کی بنیادی شکل آتی ہے۔",
+      "examples": [
+        {"english":"You should drink water.","urdu":"تمہیں پانی پینا چاہیے۔","note":"Should gives advice.","ttsText":"You should drink water."},
+        {"english":"She can speak English.","urdu":"وہ انگریزی بول سکتی ہے۔","note":"Can shows ability.","ttsText":"She can speak English."}
+      ],
+      "corrections": [
+        {"incorrect":"She can speaks English.","correct":"She can speak English.","urdu":"وہ انگریزی بول سکتی ہے۔"}
+      ],
+      "ttsText": "Use the base verb after a modal verb."
+    },
+    {
+      "id": "grammar-013-subject-verb-agreement",
+      "level": "intermediate",
+      "category": "agreement",
+      "difficulty": "intermediate",
+      "order": 13,
+      "titleEnglish": "Subject–Verb Agreement",
+      "titleUrdu": "Subject اور Verb کی مطابقت",
+      "explanationEnglish": "The verb should match the subject. In the present simple, he, she, and it usually take a verb ending in s or es.",
+      "explanationUrdu": "Verb کو subject کے مطابق ہونا چاہیے۔ present simple میں he، she، اور it کے ساتھ عموماً verb کے آخر میں s یا es آتا ہے۔",
+      "examples": [
+        {"english":"He reads every night.","urdu":"وہ ہر رات پڑھتا ہے۔","note":"Reads matches he.","ttsText":"He reads every night."},
+        {"english":"They read every night.","urdu":"وہ ہر رات پڑھتے ہیں۔","note":"Read matches they.","ttsText":"They read every night."}
+      ],
+      "corrections": [
+        {"incorrect":"She write neatly.","correct":"She writes neatly.","urdu":"وہ صاف لکھتی ہے۔"}
+      ],
+      "ttsText": "The verb should match the subject."
+    },
+    {
+      "id": "grammar-014-degrees-comparison",
+      "level": "intermediate",
+      "category": "degrees",
+      "difficulty": "intermediate",
+      "order": 14,
+      "titleEnglish": "Degrees of Comparison",
+      "titleUrdu": "درجاتِ صفت",
+      "explanationEnglish": "Adjectives can compare people or things. Use positive, comparative, and superlative forms such as tall, taller, and tallest.",
+      "explanationUrdu": "صفات لوگوں یا چیزوں کا موازنہ کر سکتی ہیں۔ tall، taller، اور tallest جیسی positive، comparative، اور superlative شکلیں استعمال ہوتی ہیں۔",
+      "examples": [
+        {"english":"This tree is tall.","urdu":"یہ درخت لمبا ہے۔","note":"Tall is positive.","ttsText":"This tree is tall."},
+        {"english":"This tree is taller than that tree.","urdu":"یہ درخت اُس درخت سے لمبا ہے۔","note":"Taller compares two things.","ttsText":"This tree is taller than that tree."},
+        {"english":"This is the tallest tree in the garden.","urdu":"یہ باغ کا سب سے لمبا درخت ہے۔","note":"Tallest compares with the whole group.","ttsText":"This is the tallest tree in the garden."}
+      ],
+      "corrections": [
+        {"incorrect":"This is more taller.","correct":"This is taller.","urdu":"یہ زیادہ لمبا ہے۔"}
+      ],
+      "ttsText": "Use comparative and superlative forms to compare."
+    },
+    {
+      "id": "grammar-015-active-passive",
+      "level": "advanced",
+      "category": "activePassive",
+      "difficulty": "advanced",
+      "order": 15,
+      "titleEnglish": "Active and Passive Voice",
+      "titleUrdu": "Active اور Passive Voice",
+      "explanationEnglish": "In active voice, the subject does the action. In passive voice, the subject receives the action. Passive voice often uses be plus the past participle.",
+      "explanationUrdu": "Active voice میں subject کام کرتا ہے۔ Passive voice میں subject پر کام ہوتا ہے۔ Passive voice میں اکثر be کے ساتھ past participle استعمال ہوتا ہے۔",
+      "examples": [
+        {"english":"The teacher explains the lesson.","urdu":"استاد سبق سمجھاتا ہے۔","note":"Active voice.","ttsText":"The teacher explains the lesson."},
+        {"english":"The lesson is explained by the teacher.","urdu":"سبق استاد کے ذریعے سمجھایا جاتا ہے۔","note":"Passive voice.","ttsText":"The lesson is explained by the teacher."}
+      ],
+      "corrections": [
+        {"incorrect":"The lesson explained by the teacher.","correct":"The lesson is explained by the teacher.","urdu":"سبق استاد کے ذریعے سمجھایا جاتا ہے۔"}
+      ],
+      "ttsText": "Passive voice often uses be plus the past participle."
+    },
+    {
+      "id": "grammar-016-direct-indirect",
+      "level": "advanced",
+      "category": "directIndirect",
+      "difficulty": "advanced",
+      "order": 16,
+      "titleEnglish": "Direct and Indirect Speech",
+      "titleUrdu": "Direct اور Indirect Speech",
+      "explanationEnglish": "Direct speech gives the exact words of a speaker. Indirect speech reports the meaning without quotation marks and often changes pronouns or tense.",
+      "explanationUrdu": "Direct speech میں بولنے والے کے اصل الفاظ دیے جاتے ہیں۔ Indirect speech میں quotation marks کے بغیر بات کا مفہوم بتایا جاتا ہے، اور اکثر ضمیر یا tense بدلتا ہے۔",
+      "examples": [
+        {"english":"Sara said, 'I am ready.'","urdu":"سارہ نے کہا، 'میں تیار ہوں۔'","note":"Direct speech uses exact words.","ttsText":"Sara said, I am ready."},
+        {"english":"Sara said that she was ready.","urdu":"سارہ نے کہا کہ وہ تیار تھی۔","note":"Indirect speech reports the message.","ttsText":"Sara said that she was ready."}
+      ],
+      "corrections": [
+        {"incorrect":"Sara said that I am ready.","correct":"Sara said that she was ready.","urdu":"سارہ نے کہا کہ وہ تیار تھی۔"}
+      ],
+      "ttsText": "Indirect speech reports what someone said."
+    },
+    {
+      "id": "grammar-017-common-errors",
+      "level": "advanced",
+      "category": "commonErrors",
+      "difficulty": "advanced",
+      "order": 17,
+      "titleEnglish": "Common Grammar Errors",
+      "titleUrdu": "عام گرامر غلطیاں",
+      "explanationEnglish": "Common errors often happen with word order, missing verbs, articles, prepositions, and subject–verb agreement. Learning corrections helps you write clearer English.",
+      "explanationUrdu": "عام غلطیاں اکثر الفاظ کی ترتیب، missing verbs، articles، prepositions، اور subject–verb agreement میں ہوتی ہیں۔ درستگی سیکھنے سے انگریزی صاف لکھی جاتی ہے۔",
+      "examples": [
+        {"english":"I am interested in English.","urdu":"مجھے انگریزی میں دلچسپی ہے۔","note":"Use interested in, not interested on.","ttsText":"I am interested in English."},
+        {"english":"There are many students in the class.","urdu":"کلاس میں بہت سے طلبہ ہیں۔","note":"Use are with many students.","ttsText":"There are many students in the class."}
+      ],
+      "corrections": [
+        {"incorrect":"I am agree.","correct":"I agree.","urdu":"میں اتفاق کرتا ہوں۔"},
+        {"incorrect":"He is knowing the answer.","correct":"He knows the answer.","urdu":"وہ جواب جانتا ہے۔"}
+      ],
+      "ttsText": "Common grammar errors can be corrected with careful practice."
+    }
+  ]
+}

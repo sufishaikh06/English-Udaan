@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0-sample",
+  "items": [
+    {"id":"alphabet-a","letter":"A","lowercase":"a","englishExample":"Apple","urduMeaning":"سیب","ttsText":"A. Apple."},
+    {"id":"alphabet-b","letter":"B","lowercase":"b","englishExample":"Ball","urduMeaning":"گیند","ttsText":"B. Ball."},
+    {"id":"alphabet-c","letter":"C","lowercase":"c","englishExample":"Cat","urduMeaning":"بلی","ttsText":"C. Cat."},
+    {"id":"alphabet-d","letter":"D","lowercase":"d","englishExample":"Dog","urduMeaning":"کتا","ttsText":"D. Dog."},
+    {"id":"alphabet-e","letter":"E","lowercase":"e","englishExample":"Egg","urduMeaning":"انڈا","ttsText":"E. Egg."},
+    {"id":"alphabet-f","letter":"F","lowercase":"f","englishExample":"Fish","urduMeaning":"مچھلی","ttsText":"F. Fish."},
+    {"id":"alphabet-g","letter":"G","lowercase":"g","englishExample":"Goat","urduMeaning":"بکری","ttsText":"G. Goat."},
+    {"id":"alphabet-h","letter":"H","lowercase":"h","englishExample":"Hat","urduMeaning":"ٹوپی","ttsText":"H. Hat."},
+    {"id":"alphabet-i","letter":"I","lowercase":"i","englishExample":"Ink","urduMeaning":"سیاہی","ttsText":"I. Ink."},
+    {"id":"alphabet-j","letter":"J","lowercase":"j","englishExample":"Jug","urduMeaning":"جگ","ttsText":"J. Jug."},
+    {"id":"alphabet-k","letter":"K","lowercase":"k","englishExample":"Kite","urduMeaning":"پتنگ","ttsText":"K. Kite."},
+    {"id":"alphabet-l","letter":"L","lowercase":"l","englishExample":"Lion","urduMeaning":"شیر","ttsText":"L. Lion."},
+    {"id":"alphabet-m","letter":"M","lowercase":"m","englishExample":"Mango","urduMeaning":"آم","ttsText":"M. Mango."},
+    {"id":"alphabet-n","letter":"N","lowercase":"n","englishExample":"Nest","urduMeaning":"گھونسلا","ttsText":"N. Nest."},
+    {"id":"alphabet-o","letter":"O","lowercase":"o","englishExample":"Orange","urduMeaning":"سنترہ","ttsText":"O. Orange."},
+    {"id":"alphabet-p","letter":"P","lowercase":"p","englishExample":"Pen","urduMeaning":"قلم","ttsText":"P. Pen."},
+    {"id":"alphabet-q","letter":"Q","lowercase":"q","englishExample":"Queen","urduMeaning":"ملکہ","ttsText":"Q. Queen."},
+    {"id":"alphabet-r","letter":"R","lowercase":"r","englishExample":"Rabbit","urduMeaning":"خرگوش","ttsText":"R. Rabbit."},
+    {"id":"alphabet-s","letter":"S","lowercase":"s","englishExample":"Sun","urduMeaning":"سورج","ttsText":"S. Sun."},
+    {"id":"alphabet-t","letter":"T","lowercase":"t","englishExample":"Tree","urduMeaning":"درخت","ttsText":"T. Tree."},
+    {"id":"alphabet-u","letter":"U","lowercase":"u","englishExample":"Umbrella","urduMeaning":"چھتری","ttsText":"U. Umbrella."},
+    {"id":"alphabet-v","letter":"V","lowercase":"v","englishExample":"Van","urduMeaning":"وین","ttsText":"V. Van."},
+    {"id":"alphabet-w","letter":"W","lowercase":"w","englishExample":"Watch","urduMeaning":"گھڑی","ttsText":"W. Watch."},
+    {"id":"alphabet-x","letter":"X","lowercase":"x","englishExample":"X-ray","urduMeaning":"ایکسرے","ttsText":"X. X-ray."},
+    {"id":"alphabet-y","letter":"Y","lowercase":"y","englishExample":"Yak","urduMeaning":"یاک","ttsText":"Y. Yak."},
+    {"id":"alphabet-z","letter":"Z","lowercase":"z","englishExample":"Zebra","urduMeaning":"زیبرا","ttsText":"Z. Zebra."}
+  ]
+}
